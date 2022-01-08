@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iraclia
-- 👀 I’m interested in figuring out this all works.
-- 🌱 I’m currently learning Python - my very first language!
+- 👀 I’m interested in expanding my skills.
+- 🌱 I’m currently practicing Python with a text adventure game.
 
 <!---
 Iraclia/Iraclia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
