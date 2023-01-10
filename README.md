@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iraclia
+- 👋 Hi, I’m Katie
 - 👀 I’m interested in expanding my skills.
 - 🌱 I’m currently practicing Python with a text adventure game.
 
