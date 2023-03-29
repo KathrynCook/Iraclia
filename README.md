@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Katie
 - 👀 I’m interested in expanding my skills.
-- 🌱 I’m currently learning as much as I can about as much as I can! I'm currently tackling C#
+- 🌱 I’m currently learning as much as I can about as much as I can! I'm tackling C# at the moment.
 
 <!---
 Iraclia/Iraclia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
